@@ -1,0 +1,4 @@
+this is file1 of git course 
+fixed bug.
+one more bug detected and fixed .
+fourth bug fixed 
